@@ -2,7 +2,6 @@
 <html>
 <body>
  <h1>Welcome to my World!!</h1>
-
 <?php 
 	echo 'HI!! I am Dhruvi.</br></br>';
 	echo 'Doing PHP code.</br></br>';
