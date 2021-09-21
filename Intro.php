@@ -4,7 +4,7 @@
  <h1>Welcome to my World!!</h1>
 
 <?php 
-	echo 'HI!! I am Niyati.</br></br>';
+	echo 'HI!! I am Dhruvi.</br></br>';
 	echo 'Doing PHP code.</br></br>';
 ?>
 <style>
@@ -31,17 +31,17 @@ table{
 <th>Subject</th>
 </tr>
 <tr>
-<td>Niyati Joshi</td>
+<td>Dhruvi Shah</td>
 <td>21</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td>Dhruvi Shah</td>
+<td>Rutvi Shah</td>
 <td>21</td>
 <td>Python</td>
 </tr>
 <tr>
-<td>Shruti Pandya</td>
+<td>Shruti Shah</td>
 <td>21</td>
 <td>JAVA</td>
 </tr>
